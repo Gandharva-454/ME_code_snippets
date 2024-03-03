@@ -1,2 +1,2 @@
-# ME_code_snippets
-The repository contains code snippets of my Mtech Projects 
+# Advanced Digital Communications
+The branch has the code snippets and the report of my Mtech Project on basic Tx-Rx coomunication system design in MATLAB 
